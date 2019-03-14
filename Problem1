@@ -1,0 +1,24 @@
+//Problem1
+
+#include <iostream>
+#include <conio.h>
+
+using namespace std;
+
+int main()
+{
+
+	cout << "Price            |Sold" <<endl;
+
+	cout << "5750.00 * 250.00 |" << 5750.00 * 250.00 <<endl;
+
+	cout << "28000.00 * 100.00|" << 28000.00 * 100.00 <<endl;
+
+	cout << "35750.00 * 50.00 |" << 35750.00 * 50.00 <<endl;
+
+	cout << "18750.00 * 25.00 |" << 18750.00 * 25.00 <<endl;
+
+
+	_getch();
+	return 0;
+}
